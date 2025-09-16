@@ -11,6 +11,15 @@ langchain-community>=0.3.29
 langchain-openai>=0.3.33
 langgraph>=0.6.7
 
+# Integração com Google Cloud e AI
+google-cloud-aiplatform
+langchain-google-genai
+google-adk
+
+# Utilitários e dependências auxiliares
+deprecated
+pydantic
+
 # Adicione outras dependências aqui conforme necessário
 # Exemplo:
 # numpy>=1.24.0

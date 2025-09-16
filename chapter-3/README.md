@@ -1,0 +1,1 @@
+não esquecer de configurar a variável de ambiente OPENAI_API_KEY
