@@ -10,6 +10,7 @@ langchain>=0.3.27
 langchain-community>=0.3.29
 langchain-openai>=0.3.33
 langgraph>=0.6.7
+crewai>=0.186.1
 
 # Integração com Google Cloud e AI
 google-cloud-aiplatform
@@ -19,6 +20,7 @@ google-adk
 # Utilitários e dependências auxiliares
 deprecated
 pydantic
+nest_asyncio>=1.6.0
 
 # Adicione outras dependências aqui conforme necessário
 # Exemplo:
